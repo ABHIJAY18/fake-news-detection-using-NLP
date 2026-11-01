@@ -319,4 +319,5 @@ This application provides a machine-learning-based classification of news conten
 The result should not be treated as a definitive statement about whether a news story is factually true or false. Users should verify important information using reliable and independent sources.
 #   f a k e - n e w s - r e d u c t i o n  
  #   f a k e - n e w s - d e t e c t i o n - u s i n g - N L P  
+ #   f a k e - n e w s - d e t e c t i o n - u s i n g - N L P  
  
